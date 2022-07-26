@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 3d66f47f39bdbba4394ca0295b331286
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - masterManager: {instanceID: 0}
+  - roomsList: {instanceID: 0}
+  - playersList: {instanceID: 0}
+  - roomMenuLayout: {instanceID: 0}
+  - nicknameField: {instanceID: 0}
+  - roomLobyLayout: {instanceID: 0}
+  - conectionLog: {instanceID: 0}
+  - nickname: {instanceID: 0}
+  - roomName: {instanceID: 0}
+  - MaxPlayers: {instanceID: 0}
+  - roomNameField: {instanceID: 0}
+  - roomData: {instanceID: 0}
+  - playerData: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
